@@ -1,6 +1,6 @@
 declare name "sidechain_attenuator";
 declare description "Side-chain attenuator.";
-declare license "MIT";
+declare license "GPLv3";
 declare copyright "(c) 2022: Diego Veralli";
 
 import("stdfaust.lib");
